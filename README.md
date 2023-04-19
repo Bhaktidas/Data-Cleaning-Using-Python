@@ -3,6 +3,20 @@
 
 This project is designed to help data analysts and scientists clean and preprocess datasets using Python. The project includes a set of scripts and modules for common data cleaning tasks, as well as a set of examples and tutorials to help users get started with cleaning their own data.
 
+## Project Description
+
+The Data Cleaning with Python project is a Python project designed to clean and preprocess raw data, making it suitable for analysis and machine learning tasks. The project aims to provide a flexible and powerful tool for cleaning and preprocessing data, regardless of its format or source.
+
+The project will use various Python libraries, such as Pandas and NumPy, to read and manipulate the data. The project will also include error handling and data validation to ensure that the data is entered and processed correctly.
+
+The project will focus on various data cleaning tasks, such as removing duplicates, handling missing values, and handling outliers. The project will also perform data normalization and feature scaling to prepare the data for analysis and modeling.
+
+The Data Cleaning with Python project will be an open-source project, available on GitHub for anyone to download, use, and contribute to. The project will be compatible with Python 3.x and will run on Windows, macOS, and Linux.
+
+The project will also include a user interface implemented using the Tkinter library, providing an easy-to-use tool for loading and cleaning data.
+
+Overall, the Data Cleaning with Python project aims to provide a powerful tool for cleaning and preprocessing data, making it suitable for analysis and modeling. By leveraging the power of Python, the project can help to optimize data cleaning processes and improve the quality of data for analysis and modeling tasks.
+
 
 ## Installation
 
